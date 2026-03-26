@@ -21,6 +21,8 @@ If the optical source has a spectral width much greater than the signal bandwidt
 If a Gaussian pulse is input to a linear system with a Gaussian impulse response, the output is also Gaussian with RMS width:
 
 <img width="340" height="102" alt="image" src="https://github.com/user-attachments/assets/c60d35c1-8a0f-4c50-873d-1314ec59a29f" />
+## BLOCK DIAGRAM
+<img width="786" height="441" alt="image" src="https://github.com/user-attachments/assets/86f05a71-e3d6-4bc7-97c6-7d7e3bc2513c" />
 
 
 
